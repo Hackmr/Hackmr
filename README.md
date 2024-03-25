@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hackmr
-- 👀 I’m interested in ... ethical hacking
+- 👀 I’m interested in ... Ethical Hacking 
 - 🌱 I’m currently learning ... Javascript and Python
-- 💞️ I’m looking to collaborate on ... Hacking
+- 💞️ I’m looking to collaborate on ... Hacking Project
 - 📫 How to reach me ... 09152854649, 09074230210
 
 <!---
